@@ -33,6 +33,6 @@ Steps to Run Server
    npm start
 
 Acknowledgments
-- Ooi sample JSON data captured from this link - https://valley-raisin-52e.notion.site/Assignment-for-MERN-Stack-Developer-Role-bb6987eb6b614a28bae069b220e5711f
-- Ooi from components captured from the package - oolib (npm I oolib)
+- Sample JSON data captured from this link - https://valley-raisin-52e.notion.site/Assignment-for-MERN-Stack-Developer-Role-bb6987eb6b614a28bae069b220e5711f
+- React Components captured from the package - oolib (npm I oolib)
 
