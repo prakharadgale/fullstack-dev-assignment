@@ -1,6 +1,6 @@
 Fullstack Dev Assignment
 
-This repository contains the codebase for the full-stack development assignment provided by Ooi.
+This repository hosts the source code for the full-stack development assignment provided by Ooloi.
 
 Backend (Express)
 
