@@ -15,13 +15,13 @@ function App() {
   });
 
   return (
-    <div className='App'>
+    <div style={{ marginLeft: '100px', justifyContent: 'center' }}>
       {isLoading ? (
         <div>Loading...</div>
       ) : isError ? (
         <div>Error: {error?.message ?? 'Error in rendering form'}</div>
       ) : (
-        <div style={{ marginLeft: '100px', justifyContent: 'center' }}>
+        <div>
           {data.length > 0 &&
             data.map((formElement, index) => {
               return (
